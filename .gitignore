@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+uploads/
+remover_autorizacion_env.txt
+archivos_test/
+
+*.log
+*.swp
+.dockerignore
+docker-compose.override.yml
+
+init_users.py
+graficos.ipynb
+.env
